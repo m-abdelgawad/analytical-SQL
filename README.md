@@ -10,7 +10,7 @@ I answered this question in a practical way, by creating a table in a local Post
 
 <img src="screenshots/Q1.png">
 
-then used the `LAG` function to answer this question, as follows:
+then used the `LAG` function to get the previous subtotal, and the `SUM` fucntion to get the total previous subtotals, for each product, as follows:
 
 <img src="screenshots/Q1-query.png">
 
