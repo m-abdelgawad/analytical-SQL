@@ -1,1 +1,4 @@
 db_credentials.py
+.ipynb_checkpoints/
+__pycache__/
+SQL Test.docx
