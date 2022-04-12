@@ -1,6 +1,6 @@
 # SQL Exercises
 
-In this project, I practiced my SQL skills, and answered two questions.
+In this project, I practice my analytical SQL skills by solving various questions.
 
 ## First Question
 
